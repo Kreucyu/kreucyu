@@ -218,8 +218,6 @@ Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, cu
     />
   </a>
 </div>
-
-<hr style="padding-top: 6px">
  
 
 
