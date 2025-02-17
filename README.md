@@ -4,7 +4,16 @@
 
 Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, currently in my third semester. Technology has always been a fundamental part of my life and plays a crucial role in my journey. I work as a Full-Stack Developer and am constantly seeking to expand my knowledge, staying up to date with the latest trends and technologies in the industry.
 
----
+
+<div> 
+  <a href="https://www.instagram.com/elciowp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:elciocleiton72@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/elciow/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+<hr>
+
+
 
 <h1>🛠️ Skills</h1>
 
@@ -160,11 +169,57 @@ Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, cu
 <hr>
 <h1>📈 My Contributions</h1>
 
- [![Kreucyu GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Kreucyu&show_icons=true&theme=dark&include_all_commits=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=0D1117&border_color=3D444D)](https://github.com/kreucyu/github-readme-stats#gh-dark-mode-only)
- [![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Kreucyu&layout=compact&theme=dark&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=0D1117&border_color=3D444D)](https://github.com/kreucyu/github-readme-stats#gh-dark-mode-only)
+
+<div style="display: flex;">
 
 
- [![Kreucyu GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Kreucyu&show_icons=true&theme=default&icon_color=000000&title_color=000000&text_color=000000&bg_color=ffffff&border_color=D1D9E0)](https://github.com/kreucyu/github-readme-stats#gh-light-mode-only)
- [![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Kreucyu&layout=compact&theme=default&icon_color=000000&title_color=000000&text_color=000000&bg_color=ffffff&border_color=D1D9E0)](https://github.com/kreucyu/github-readme-stats#gh-light-mode-only)
+  <a href="https://github.com/kreucyu/github-readme-stats#gh-dark-mode-only">
+    <img 
+      align="left" 
+      alt="Stats" 
+      title="Stats"
+      height="200"
+      style="padding-right: 3px"
+      src="https://github-readme-stats.vercel.app/api?username=Kreucyu&show_icons=true&theme=dark&include_all_commits=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=0D1117&border_color=3D444D" 
+    />
+  </a>
+  <a href="https://github.com/kreucyu/github-readme-stats#gh-dark-mode-only">
+    <img 
+      align="left" 
+      alt="Top Langs"
+      title="Top Langs"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kreucyu&layout=compact&theme=dark&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=0D1117&border_color=3D444D" 
+    />
+  </a>
+
+</div>
+
+<div style="display: flex;">
+
+
+  <a href="https://github.com/kreucyu/github-readme-stats#gh-light-mode-only">
+    <img 
+      align="left" 
+      alt="Stats" 
+      title="Stats"
+      height="200"
+      style="padding-right: 3px"
+      src="https://github-readme-stats.vercel.app/api?username=Kreucyu&show_icons=true&theme=default&icon_color=000000&title_color=000000&text_color=000000&bg_color=ffffff&border_color=D1D9E0" 
+    />
+  </a>
+  <a href="https://github.com/kreucyu/github-readme-stats#gh-light-mode-only">
+    <img 
+      align="left" 
+      alt="Top Langs"
+      title="Top Langs"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kreucyu&layout=compact&theme=default&icon_color=000000&title_color=000000&text_color=000000&bg_color=ffffff&border_color=D1D9E0" 
+    />
+  </a>
+</div>
+
+<hr style="padding-top: 6px">
+ 
 
 
