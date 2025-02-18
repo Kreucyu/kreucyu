@@ -210,7 +210,7 @@ Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, cu
     />
   </a>
 </span>
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 <div><h1>🟩 Tetris</div>
 ![GitHub Tetris Game](https://raw.githubusercontent.com/Kreucyu/pratica-front/refs/heads/main/gif-perfil/tetris.gif)span>
   
