@@ -214,14 +214,16 @@ Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, cu
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kreucyu&layout=compact&theme=default&icon_color=000000&title_color=000000&text_color=000000&bg_color=ffffff&border_color=D1D9E0" 
     />
   </a>
-<span>
-
-<h1>🟩 Tetris</h1>
-<>
+</span>
+<span><h1>🟩 Tetris</h1>
+![GitHub Tetris Game](https://raw.githubusercontent.com/Kreucyu/pratica-front/refs/heads/main/gif-perfil/tetris.gif)span>
   
 
-![GitHub Tetris Game](https://raw.githubusercontent.com/Kreucyu/pratica-front/refs/heads/main/gif-perfil/tetris.gif)
-  </div>
+
+  
+
+
+ 
 
 
 
