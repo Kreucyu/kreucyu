@@ -168,7 +168,7 @@ Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, cu
 
   ## 🟩 Tetris
 
-![GitHub Tetris Game](https://raw.githubusercontent.com/Kreucyu/pratica-front/refs/heads/main/gif-perfil/tetris.gif)
+![GitHub Tetris Game](https://raw.githubusercontent.com/Kreucyu/studies/refs/heads/main/frontEndPractice/profileGif/tetris.gif)
 
 ## 📊 My Contributions
 
