@@ -92,6 +92,23 @@ Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, cu
 
 <img 
     align="left" 
+    alt="SQLite" 
+    title="SQLite"
+    width="30px" 
+    style="padding-right: 13px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 13px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Spring" 
     title="Spring"
     width="30px" 
@@ -125,13 +142,14 @@ Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, cu
     style="padding-right: 13px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"
 />
+
 <img 
     align="left" 
-    alt="SQLite" 
-    title="SQLite"
+    alt="Inteij" 
+    title="Intelij"
     width="30px" 
-    style="padding-right: 13px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+    style="padding-right: 13px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
 />
 
 <img 
@@ -143,15 +161,9 @@ Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, cu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 13px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
 
+          
+          
 
 
 
