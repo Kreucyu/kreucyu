@@ -127,11 +127,11 @@ Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, cu
 />
 <img 
     align="left" 
-    alt="Github" 
-    title="Github"
+    alt="SQLite" 
+    title="SQLite"
     width="30px" 
     style="padding-right: 13px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
 />
 
 <img 
@@ -149,7 +149,7 @@ Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, cu
     title="PostgreSQL"
     width="30px" 
     style="padding-right: 13px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
 
