@@ -176,20 +176,6 @@ Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, cu
 
 ![GitHub Tetris Game](https://raw.githubusercontent.com/Kreucyu/studies/refs/heads/main/frontEndPractice/profileGif/tetris.gif)
 
-## 📊 My Statistcs
-
-<a href="https://github.com/kreucyu/github-readme-stats#gh-dark-mode-only">
-  <img align="left" alt="Stats" title="Stats" height="190" src="https://github-readme-stats.vercel.app/api?username=Kreucyu&show_icons=true&theme=dark&include_all_commits=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=0D1117&border_color=3D444D" />
-</a>
-<a href="https://github.com/kreucyu/github-readme-stats#gh-dark-mode-only">
-  <img align="left" alt="Top Langs" title="Top Langs" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kreucyu&layout=compact&theme=dark&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=0D1117&border_color=3D444D" />
-</a>
-<a href="https://github.com/kreucyu/github-readme-stats#gh-light-mode-only">
-  <img align="left" alt="Stats" title="Stats" height="190" src="https://github-readme-stats.vercel.app/api?username=Kreucyu&show_icons=true&theme=default&icon_color=000000&title_color=000000&text_color=000000&bg_color=ffffff&border_color=D1D9E0" />
-</a>
-<a href="https://github.com/kreucyu/github-readme-stats#gh-light-mode-only">
-  <img align="left" alt="Top Langs" title="Top Langs" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kreucyu&layout=compact&theme=default&icon_color=000000&title_color=000000&text_color=000000&bg_color=ffffff&border_color=D1D9E0" />
-</a>
 
 
 
