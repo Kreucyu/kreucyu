@@ -69,17 +69,8 @@ Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, cu
 
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 13px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Angular"
+    title="Angular" 
     width="30px" 
     style="padding-right: 13px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
