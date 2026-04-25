@@ -1,8 +1,8 @@
 # 🧑🏻‍💻 Elcio Wippel
 
-**Full-Stack Developer**
+**Desenvolvedor Full-Stack**
 
-Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, currently in my third semester. Technology has always been a fundamental part of my life and plays a crucial role in my journey. I work as a Full-Stack Developer and am constantly seeking to expand my knowledge, staying up to date with the latest trends and technologies in the industry.
+Olá. meu nome é Elcio Wippel, sou estudante de Ciências da Computação na furb, atualmente estou no quinto semestre. Tecnologia sempre foi uma parte fundamental da minha vida e desempenha um papel crucial na minha jornada. Eu sou um Desenvolvedor Full-Stack, busco constantemente expandir meu conhecimento me aventurando por áreas e tópicos novos, buscando sempre me atualizar com base nas novas tecnologias e tendências do mercado.
 
 
 <div> 
@@ -15,7 +15,7 @@ Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, cu
 
 <h1>🛠️ Skills</h1>
 
-### 🖥️ Programming Languages
+### 🖥️ Linguagens de Programação
 
 <img 
     align="left" 
@@ -38,7 +38,7 @@ Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, cu
 <br/>
 <br/>
 
-### 🎨 Frontend and Design
+### 🎨 Frontend e Design
 
 <img 
     align="left" 
@@ -80,7 +80,7 @@ Hello, my name is Elcio Wippel, and I’m a Computer Science student at FURB, cu
 <br/>
 
 
-### ⚙️ Backend, Databases, and Tools
+### ⚙️ Backend, Databases, e Ferramentas
 
 <img 
     align="left" 
