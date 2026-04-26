@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full-Stack**
 
-Olá. meu nome é Elcio Wippel, sou estudante de Ciências da Computação na furb, atualmente estou no quinto semestre. Tecnologia sempre foi uma parte fundamental da minha vida e desempenha um papel crucial na minha jornada. Eu sou um Desenvolvedor Full-Stack, busco constantemente expandir meu conhecimento me aventurando por áreas e tópicos novos, buscando sempre me atualizar com base nas novas tecnologias e tendências do mercado.
+Olá, meu nome é Elcio Wippel, sou estudante de Ciências da Computação na FURB, atualmente estou no quinto semestre. Tecnologia sempre foi uma parte fundamental da minha vida e desempenha um papel crucial na minha jornada. Eu sou um Desenvolvedor Full-Stack, busco constantemente expandir meu conhecimento me aventurando por áreas e tópicos novos, buscando sempre me atualizar com base nas novas tecnologias e tendências do mercado.
 
 
 <div> 
