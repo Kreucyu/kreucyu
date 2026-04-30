@@ -84,32 +84,6 @@ Olá, meu nome é Elcio Wippel, sou estudante de Ciências da Computação na FU
 
 <img 
     align="left" 
-    alt="mySQL" 
-    title="mySQL"
-    width="30px" 
-    style="padding-right: 13px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="SQLite" 
-    title="SQLite"
-    width="30px" 
-    style="padding-right: 13px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 13px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Spring" 
     title="Spring"
     width="30px" 
@@ -119,11 +93,75 @@ Olá, meu nome é Elcio Wippel, sou estudante de Ciências da Computação na FU
 
 <img 
     align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 13px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="SQLite" 
+    title="SQLite"
+    width="30px" 
+    style="padding-right: 13px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="mySQL" 
+    title="mySQL"
+    width="30px" 
+    style="padding-right: 13px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="RabbitMQ" 
+    title="RabbitMQ"
+    width="30px" 
+    style="padding-right: 13px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 13px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Redis" 
+    title="Redis"
+    width="30px" 
+    style="padding-right: 13px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"
+/>
+
+<img 
+    align="left" 
     alt="Postman" 
     title="Postman"
     width="30px" 
     style="padding-right: 13px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 13px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <img 
@@ -151,42 +189,6 @@ Olá, meu nome é Elcio Wippel, sou estudante de Ciências da Computação na FU
     width="30px" 
     style="padding-right: 13px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 13px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="RabbitMQ" 
-    title="RabbitMQ"
-    width="30px" 
-    style="padding-right: 13px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 13px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Redis" 
-    title="Redis"
-    width="30px" 
-    style="padding-right: 13px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"
 />
 
 <br/>
