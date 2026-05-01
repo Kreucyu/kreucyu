@@ -66,15 +66,6 @@ Olá, meu nome é Elcio Wippel, sou estudante de Ciências da Computação na FU
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Angular"
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 13px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
-/>
-
 
 <br/>
 <br/>
