@@ -127,16 +127,14 @@ Olá, meu nome é Elcio Wippel, sou estudante de Ciências da Computação na FU
     style="padding-right: 13px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
 />
-
-<img 
+<!--<img 
     align="left" 
     alt="Redis" 
     title="Redis"
     width="30px" 
     style="padding-right: 13px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"
-/>
-
+/>-->
 <img 
     align="left" 
     alt="Postman" 
