@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full-stack**
 
-Olá, meu nome é Elcio Wippel, sou estudante de Ciências da Computação na FURB, atualmente estou no quinto semestre. Tecnologia sempre foi uma parte fundamental da minha vida e desempenha um papel crucial na minha jornada. Eu sou um Desenvolvedor Full-stack, busco constantemente expandir meu conhecimento me aventurando por áreas e tópicos novos, buscando sempre me atualizar com base nas novas tecnologias e tendências do mercado.
+Olá, meu nome é Elcio Wippel, trabalho atualmente na SpinCare Software, sou estudante de Ciências da Computação na FURB, atualmente estou no sexto semestre. Tecnologia sempre foi uma parte fundamental da minha vida e desempenha um papel crucial na minha jornada. Eu sou um Desenvolvedor Full-stack, busco constantemente expandir meu conhecimento me aventurando por áreas e tópicos novos, buscando sempre me atualizar com base nas novas tecnologias e tendências do mercado.
 
 
 <div> 
@@ -10,12 +10,18 @@ Olá, meu nome é Elcio Wippel, sou estudante de Ciências da Computação na FU
   <a href = "mailto:elcio.wippel.dev@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftOutlook&logoColor=white" target="_blank"></a>
 </div>
 
-
-
-
 <h1>🛠️ Skills</h1>
 
 ### 🖥️ Linguagens de Programação
+
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 13px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
 
 <img 
     align="left" 
@@ -39,6 +45,15 @@ Olá, meu nome é Elcio Wippel, sou estudante de Ciências da Computação na FU
 <br/>
 
 ### 🎨 Frontend e Design
+
+<img 
+    align="left" 
+    alt="Angular"
+    title="Angular" 
+    width="30px" 
+    style="padding-right: 13px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+/>
 
 <img 
     align="left" 
@@ -173,15 +188,23 @@ Olá, meu nome é Elcio Wippel, sou estudante de Ciências da Computação na FU
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<!--<img 
+<img 
+    align="left" 
+    alt="GitLab" 
+    title="GitLab"
+    width="30px" 
+    style="padding-right: 13px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"
+/>
+
+<img 
     align="left" 
     alt="Redis" 
     title="Redis"
     width="30px" 
     style="padding-right: 13px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"
-/>-->
-
+/>
 
 <br/>
 <br/>
