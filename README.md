@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Elcio Wippel
+# Elcio Wippel
 
 **Desenvolvedor Full-stack**
 
